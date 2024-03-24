@@ -14,6 +14,12 @@ HouSafe is designed to provide homeowners with tools and resources to mitigate p
 - **Checklists:** Utilize checklists for routine safety inspections and emergency preparedness planning.
 - **Notifications:** Receive timely notifications and alerts related to safety advisories and emergency situations in your area.
 
+## Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+
 ## Getting Started
 
 To get started with HouSafe:
